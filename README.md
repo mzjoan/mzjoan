@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mzjoan
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning web development
+- 👋 Hi, I’m Joan
+- 👀 I love coding
+- 🌱 I’m a javascript developer 
 - 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me akelejoan@gmail.com
+- 📫 How to reach me joannaakele@gmail.com
 
 <!---
 mzjoan/mzjoan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
