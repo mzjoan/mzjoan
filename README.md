@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joan
 - 👀 I love coding
-- 🌱 I’m a javascript developer 
+- 🌱 I’m a web developer 
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me joannaakele@gmail.com
 
